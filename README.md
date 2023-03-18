@@ -1,4 +1,8 @@
 # AVR-Drivers
 
--project incomplete
--some drivers will adjusted
+for ATMEGA32
+
+(project incomplete)
+
+
+some drivers will be adjusted
